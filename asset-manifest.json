@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Capitals-App/static/css/main.62ba7f2a.chunk.css",
+    "main.js": "/Capitals-App/static/js/main.bd8f7a1f.chunk.js",
+    "main.js.map": "/Capitals-App/static/js/main.bd8f7a1f.chunk.js.map",
+    "runtime-main.js": "/Capitals-App/static/js/runtime-main.a8484df4.js",
+    "runtime-main.js.map": "/Capitals-App/static/js/runtime-main.a8484df4.js.map",
+    "static/js/2.11856827.chunk.js": "/Capitals-App/static/js/2.11856827.chunk.js",
+    "static/js/2.11856827.chunk.js.map": "/Capitals-App/static/js/2.11856827.chunk.js.map",
+    "index.html": "/Capitals-App/index.html",
+    "static/css/main.62ba7f2a.chunk.css.map": "/Capitals-App/static/css/main.62ba7f2a.chunk.css.map",
+    "static/js/2.11856827.chunk.js.LICENSE.txt": "/Capitals-App/static/js/2.11856827.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8484df4.js",
+    "static/js/2.11856827.chunk.js",
+    "static/css/main.62ba7f2a.chunk.css",
+    "static/js/main.bd8f7a1f.chunk.js"
+  ]
+}
